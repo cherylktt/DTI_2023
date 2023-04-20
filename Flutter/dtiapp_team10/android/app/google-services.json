@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669468873290",
+    "firebase_url": "https://dtiapp-team10-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dtiapp-team10",
+    "storage_bucket": "dtiapp-team10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669468873290:android:6b39c855d274836f2e4cb3",
+        "android_client_info": {
+          "package_name": "com.team10.dtiapp.dtiapp_team10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669468873290-uqjvolqkq6s36js0ke8slir20l4kfdjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJ4CzlCZ6i2oQYIJqLtKl-NmECDPNS1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669468873290-uqjvolqkq6s36js0ke8slir20l4kfdjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
