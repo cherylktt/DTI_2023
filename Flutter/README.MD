@@ -1,1 +1,2 @@
-Flutter code for creating android application and integration with Firebase
+# Flutter Code
+Code written for creating android application and integration with Firebase
